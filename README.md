@@ -1,9 +1,9 @@
 # Algorithm
 백준 알고리즘 문제 연습하기
 
-1. ioAlgorithm >> 완료
+1. [ioAlgorithm](https://github.com/RinSeoOo/Algorithm/tree/main/ioAlgor) >> 완료
    -> 가장 기본적인 입출력 문제
-2. dpAlgorithm >> 진행중
+2. [dpAlgorithm](https://github.com/RinSeoOo/Algorithm/tree/main/dpAlgor) >> 진행중
    -> 가장 기본적인 알고리즘 관련 문제
 3. dp basic 이외
 4. 그래프(bfs, dfs)
